@@ -1,0 +1,27 @@
+.button-transparent{
+    width: 175px;
+    height: 57px;
+    border-radius: 12px;
+    background-color: transparent;
+    color: var(--color-blue-400);
+    border: 2px solid var(--color-blue-400);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: var(--font-weight-extra);
+    font-size: var(--font-size-14);
+}
+
+.button-blue{
+    width: 140px;
+    height: 57px;
+    border-radius: 12px;
+    background-color: var(--color-blue-400);
+    color: var(--color-white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: var(--font-weight-extra);
+    font-size: var(--font-size-14);
+    border: none;
+}

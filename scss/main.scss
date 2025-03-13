@@ -1,0 +1,8 @@
+@use './global/main.scss';
+
+@use './variables/color-variables' as *;
+@use './variables/font-variable' as *;
+
+@use './page/home.scss';
+
+@use './components/button.scss';
